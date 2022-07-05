@@ -8,4 +8,4 @@ Copy the files into your ImageJ plugin folder to use them. There will be new 'Bi
 ![Bild1](https://user-images.githubusercontent.com/49753745/177374240-0040fed6-344b-4ebc-899c-0365e32f4bf1.jpg)
 
 
-Find an example to can run a bath by in the Root_batch.ijm file 
+Find an example for a bath file in Root_batch.ijm  
