@@ -9,3 +9,7 @@ Copy the files into your ImageJ plugin folder to use them. There will be new 'Bi
 
 
 Find an example for a bath file in Root_batch.ijm  
+
+
+This workflows were developed for: Lucas et al. 2022:  Cover crop influence on pore size distribution and biopore dynamics: Enumerating root and
+soil faunal effects (Please cite: doi: 10.3389/fpls.2022.928569)
